@@ -1,0 +1,16 @@
+../Core/Src/result_format.c:10:6:UART_transfer	1
+../Core/Src/result_format.c:17:6:Default_font	1
+../Core/Src/result_format.c:29:6:Bold_enable	1
+../Core/Src/result_format.c:37:6:Bold_disable	1
+../Core/Src/result_format.c:45:6:Vaccum_test_result_title	1
+../Core/Src/result_format.c:68:6:Vaccum_test_result_subtitle	1
+../Core/Src/result_format.c:82:6:Vaccum_test_result_report	1
+../Core/Src/result_format.c:108:6:User_prod_details	1
+../Core/Src/result_format.c:137:6:Test_settings	1
+../Core/Src/result_format.c:160:6:Test_result	1
+../Core/Src/result_format.c:188:6:Printred_on	1
+../Core/Src/result_format.c:199:6:Test_status	1
+../Core/Src/result_format.c:231:6:Validation_report_start	1
+../Core/Src/result_format.c:252:6:Validation_report_product_details	1
+../Core/Src/result_format.c:267:6:Validation_report_results	1
+../Core/Src/result_format.c:292:6:Validation_report_end	1
